@@ -12,14 +12,16 @@
 🌟 Lenguajes principales Kotlin, java.
 🚩 Estoy interesado en el aprendisaje tanto back-end como front-end. Seguir creciendo como desarrollador es mi objetivo.
 🤔 Estoy abierto a entrevistas laborales tanto en mi pais como en el extranjero.</b>, Estes es
-	<a href="nahuelarrua580@gmail.com"><img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=GitHub" alt="Gmail"></a>
+	
 </pre>
 
 <hr>
 
 Connecatate conmigo
 <p align="center">
-
+<a href="nahuelarrua580@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail" alt="gmail"></a>
+<a href="https://www.linkedin.com/in/nahuel-arrua-a4874722b/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin" alt="linkedin"></a>
+<a href="https://github.com/NahuelArrua"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub"alt="gitHub"></a>
 </p>
 
 ## 🛠️ My Favorite Tools
