@@ -25,3 +25,9 @@ Connecatate conmigo
 </p>
 
 ## 🛠️ My Favorite Tools
+
+### 👨‍💻 Lenguajes de programacion
+
+<p>
+ <a href="https://github.com/NahuelArrua"><img src="https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white"alt="kotlin"></a>
+
