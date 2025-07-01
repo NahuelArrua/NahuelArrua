@@ -19,7 +19,7 @@
 
 Connecatate conmigo
 <p align="center">
-<a href="mailto:/www.linke.nahuelarrua580@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail" alt="gmail"></a>
+<a href="mailto:https://www.linkedin.com/in/nahuel-arrua-a4874722b/overlay/contact-info/"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/nahuel-arrua-a4874722b/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin" alt="linkedin"></a>
 <a href="https://github.com/NahuelArrua"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub"alt="gitHub"></a>
 </p>
