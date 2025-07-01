@@ -11,7 +11,7 @@
 📚 Actualmente estoy estudiando analista de sistemas.
 🌟 Lenguajes principales Kotlin, java.
 🚩 Estoy interesado en el aprendisaje tanto back-end como front-end. Seguir creciendo como desarrollador es mi objetivo.
-🤔 Estoy abierto a entrevistas laborales tanto en mi pais como en el extranjero.</b>, Estes es
+🤔 Estoy abierto a entrevistas laborales tanto en mi pais como en el extranjero.</b>
 	
 </pre>
 
