@@ -9,10 +9,9 @@
 <pre>
 💻 Hola soy desarrollador android.
 📚 Actualmente estoy estudiando analista de sistemas.
-🌟 Lenguajes principales Kotlin, java.
+🌟 Lenguaje de programacion kotlin.
 🚩 Estoy interesado en el aprendisaje tanto back-end como front-end. Seguir creciendo como desarrollador es mi objetivo.
-🤔 Estoy abierto a entrevistas laborales tanto en mi pais como en el extranjero.</b>
-	
+🤔 Estoy abierto a entrevistas laborales tanto en mi pais como en el extranjero.</b>	
 </pre>
 
 <hr>
