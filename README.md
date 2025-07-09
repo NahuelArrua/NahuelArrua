@@ -23,7 +23,6 @@ Connecatate conmigo
 <a href="https://github.com/NahuelArrua"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub"alt="gitHub"></a>
 </p>
 
-## 🛠️ My Favorite Tools
 
 ###  Lenguaje de programacion
 
